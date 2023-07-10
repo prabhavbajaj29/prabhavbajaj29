@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
 
-- 📫 reach me on gmail **prabhavbajaj290602@gmail.com**
+- 📫 reach me on  **prabhavbajaj290602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
