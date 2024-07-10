@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhav Bajaj</h1>
 <h3 align="center">Passionate problem solver and relentless learner, seeking new challenges and opportunities to grow my skills</h3>
 <img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
-- 🌱 I’m currently learning **Django**
+-  I’m currently learning Django
 
-- 📫 Gmail **prabhavbajaj290602@gmail.com**
+- 📩 Gmail **prabhavbajaj290602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
